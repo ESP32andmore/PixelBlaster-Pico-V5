@@ -24,7 +24,7 @@ It supports virtually all LED strips and serial matrices using single-wire proto
 - Comes pre-flashed with the latest version of WLED. 
 
 
- ## Features (PD option) 
+ ## Features (PD option) - available soon
 
 - Onboard ATtiny1616 controller manages the AP33772S Power Delivery 3.1 sink controller. 
 - Input power: 5 volts @ 5-amp max. via USB-C connector, up to 25 watts max. 
