@@ -23,6 +23,19 @@ It supports virtually all LED strips and serial matrices using single-wire proto
 - Comes with a tiny custom 3D-printed PLA+ case (design files available upon request). 
 - Comes pre-flashed with the latest version of WLED. 
 
+### GPIO Mapping
+
+| FUNCTION | GPIO |
+| --------- | ---- |
+| C1 | IO019 |
+| D1 | IO22 |
+| Relay | IO21 |
+| I2S SCK | IO12 |
+| I2S SD | IO13 |
+| I2S WS | IO14 |
+| USER1 | IO02 |
+| USER2 | IO27 |
+| USER3 | IO26 |
 
  ## Features (PD option) - available soon
 
